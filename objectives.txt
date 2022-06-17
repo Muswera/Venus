@@ -1,5 +1,5 @@
 
-By the end of this course, you'll be able to 
+ * By the end of this course, you'll be able to 
 - Create snapshots 
 - Browse history 
 - Create and merge branches
